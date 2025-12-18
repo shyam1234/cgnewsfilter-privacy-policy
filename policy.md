@@ -72,7 +72,6 @@ CGNEWSFilter uses <strong>YouTube Data APIs</strong> to fetch publicly available
 <p>
 YouTube Privacy Policy:
 <a href="https://policies.google.com/privacy" target="_blank">
-<a href="youtube.com/privacy" target="_blank">
 https://policies.google.com/privacy
 </a>
 </p>
