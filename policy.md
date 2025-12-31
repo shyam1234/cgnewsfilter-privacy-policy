@@ -2,19 +2,19 @@
 <html lang="en">
 <body>
 
-<h2>Privacy Policy for CGNEWSFilter</h2>
+<h2>Privacy Policy for CG News Aggregator</h2>
 
 <p><strong>Effective Date:</strong> 18 December 2025</p>
 
 <p>
-CGNEWSFilter (“we”, “our”, or “us”) respects your privacy and is committed to protecting it.
+CG News Aggregator (“we”, “our”, or “us”) respects your privacy and is committed to protecting it.
 This Privacy Policy explains how our mobile and Android TV application
-<strong>CGNEWSFilter</strong> handles user information.
+<strong>CG News Aggregator</strong> handles user information.
 </p>
 
-<h2>1. About CGNEWSFilter</h2>
+<h2>1. About CG News Aggregator</h2>
 <p>
-CGNEWSFilter is a <strong>news aggregation application</strong> that helps users discover
+CG News Aggregator is a <strong>news aggregation application</strong> that helps users discover
 <strong>Chhattisgarh-related news videos</strong> available publicly on <strong>YouTube</strong>.
 The app does <strong>not host, upload, or modify</strong> any video content.
 All videos are played directly on YouTube or redirected to the official YouTube app or website.
@@ -60,7 +60,7 @@ We <strong>do not sell, rent, or share</strong> user data with third parties.
 
 <h2>4. YouTube &amp; Third-Party Services</h2>
 <p>
-CGNEWSFilter uses <strong>YouTube Data APIs</strong> to fetch publicly available video information.
+CG News Aggregator uses <strong>YouTube Data APIs</strong> to fetch publicly available video information.
 </p>
 
 <p>When you click a video:</p>
@@ -77,7 +77,7 @@ https://policies.google.com/privacy
 </p>
 
 <p>
-CGNEWSFilter is <strong>not affiliated with or endorsed by YouTube or Google</strong>.
+CG News Aggregator is <strong>not affiliated with or endorsed by YouTube or Google</strong>.
 </p>
 
 <h2>5. Ads &amp; Monetization</h2>
@@ -94,7 +94,7 @@ If monetization is added in the future, this Privacy Policy will be updated acco
 
 <h2>6. Children’s Privacy</h2>
 <p>
-CGNEWSFilter is <strong>not intended for children under 13</strong>.
+CG News Aggregator is <strong>not intended for children under 13</strong>.
 </p>
 <p>
 We do not knowingly collect any personal data from children.
@@ -133,11 +133,11 @@ If you have any questions or concerns about this Privacy Policy, you can contact
 
 <h2>10. Consent</h2>
 <p>
-By using the <strong>CGNEWSFilter</strong> app, you agree to this Privacy Policy.
+By using the <strong>CG News Aggregator</strong> app, you agree to this Privacy Policy.
 </p>
 
 <div class="footer">
-    © 2026 CGNEWSFilter. All rights reserved.
+    © 2026 CG News Aggregator. All rights reserved.
 </div>
 
 </body>
